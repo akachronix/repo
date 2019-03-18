@@ -1,13 +1,23 @@
 <repo>
 	<footerlinks>
 		<link>
-			<name>Follow me on Twitter</name>
-			<url>https://twitter.com/reposi3</url>
-			<iconclass>fa fa-twitter</iconclass>
+			<name>Subscribe to me on YouTube</name>
+			<url>https://www.youtube.com/channel/UCEj2uj_VZYYOa8tIBb63tUg</url>
+			<iconclass>fa fa-thumbs-up</iconclass>
 		</link>
 		<link>
-			<name>I want this depiction template</name>
-			<url>https://github.com/supermamon/Reposi3/</url>
+			<name>Follow me on Instagram</name>
+			<url>https://instagram.com/akachronix</url>
+			<iconclass>fa fa-thumbs-up</iconclass>
+		</link>
+		<link>
+			<name>Follow me on SoundCloud</name>
+			<url>https://soundcloud.com/chronix2</url>
+			<iconclass>fa fa-thumbs-up</iconclass>
+		</link>
+		<link>
+			<name>Follow me on Spotify</name>
+			<url>https://open.spotify.com/artist/2mZ7TyrKsCMtAeppYESQQJ</url>
 			<iconclass>fa fa-thumbs-up</iconclass>
 		</link>
 	</footerlinks>
