@@ -1,0 +1,16 @@
+Package: com.chronix.kerntool
+Version: 0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: Chronix
+Installed-Size: 136
+Filename: ./debs/com.chronix.kerntool_0.1-1+debug_iphoneos-arm.deb
+Size: 10282
+MD5sum: d4766327d035469f5ef116b5e0acb1c9
+SHA1: f007bd5a76ef2105275749c73d67522076fdba86
+SHA256: 9aa7358b5253d44cdb2aa1f6ee7150607f30ee50479c41738f99943d067f8731
+Section: System
+Description: Reads various files dropped by unc0ver that provide some useful information like the kernel slide.
+Tag: role::hacker
+Author: Chronix
+Name: kerntool
+
