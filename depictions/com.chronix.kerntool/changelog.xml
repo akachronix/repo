@@ -8,5 +8,7 @@
 		<change>bump version to v0.2</change>
 		<version>0.3-1</version>
 		<change>see for yourself ;)</change>
+		<version>0.3-2</version>
+		<change>fix version string</change>
 	</changes>
 </changelog>
