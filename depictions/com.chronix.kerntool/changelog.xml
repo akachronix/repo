@@ -6,5 +6,7 @@
 		<change>add --hostname option</change>
 		<change>remove hostname from --uname option output</change>
 		<change>bump version to v0.2</change>
+		<version>0.3-1</version>
+		<change>see for yourself ;)</change>
 	</changes>
 </changelog>
