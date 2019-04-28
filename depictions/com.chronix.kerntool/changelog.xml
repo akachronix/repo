@@ -1,11 +1,11 @@
 <changelog>
 	<changes>
-		<version>0.4</version>
-		<change>Strip comments</change>
-		<change>Make package version prettier</change>
-		<change>Make the Makefile more complete</change>
-		<change>Bump version to 0.4</change>
-		<change>Make code style more consistent</change>
-		<change>Remove redundant entitlements</change>
+		<version>0.5</version>
+		<change>Add functionality to check which jailbreak is installed</change>
+		<change>kerntool now disables features not supported on certain jailbreaks</change>
+		<change>kerntool will tell you what jailbreak it detects as being installed</change>
+		<change>Formatting in included help function has been changed</change>
+		<change>Code style is more consistent</change>
+		<change>Bump version to 0.5</change>
 	</changes>
 </changelog>
