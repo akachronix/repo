@@ -1,7 +1,7 @@
 <package>
 	<id>com.chronix.kerntool</id>
 	<name>kerntool</name>
-	<version>0.3-2</version>
+	<version>0.4</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
