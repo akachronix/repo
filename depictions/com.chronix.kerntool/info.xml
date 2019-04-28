@@ -4,6 +4,7 @@
 	<version>0.3-2</version>
 	<compatibility>
 		<firmware>
+			<miniOS>11.0</miniOS>
 			<maxiOS>12.4</maxiOS>
 			<otherVersions>unsupported</otherVersions>
 			<!--
@@ -17,7 +18,12 @@
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
-		<change>fix version string</change>
+		<change>Strip comments</change>
+		<change>Make package version prettier</change>
+		<change>Make the Makefile more complete</change>
+		<change>Bump version to 0.4</change>
+		<change>Make code style more consistent</change>
+		<change>Remove redundant entitlements</change>
 	</changelog>
 	<links></links>
 </package>

@@ -10,5 +10,12 @@
 		<change>see for yourself ;)</change>
 		<version>0.3-2</version>
 		<change>fix version string</change>
+		<version>0.4</version>
+		<change>Strip comments</change>
+		<change>Make package version prettier</change>
+		<change>Make the Makefile more complete</change>
+		<change>Bump version to 0.4</change>
+		<change>Make code style more consistent</change>
+		<change>Remove redundant entitlements</change>
 	</changes>
 </changelog>
