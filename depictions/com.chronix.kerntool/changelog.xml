@@ -1,15 +1,5 @@
 <changelog>
 	<changes>
-		<version>0.1-1</version>
-		<change>Initial release</change>
-		<version>0.2-1</version>
-		<change>add --hostname option</change>
-		<change>remove hostname from --uname option output</change>
-		<change>bump version to v0.2</change>
-		<version>0.3-1</version>
-		<change>see for yourself ;)</change>
-		<version>0.3-2</version>
-		<change>fix version string</change>
 		<version>0.4</version>
 		<change>Strip comments</change>
 		<change>Make package version prettier</change>
