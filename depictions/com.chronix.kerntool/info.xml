@@ -13,7 +13,16 @@
 	<descriptionlist>
 		<description>Reads various files dropped by unc0ver that provide some useful information like the kernel slide.</description>
 	</descriptionlist>
-	<screenshots></screenshots>
+	<screenshots>
+		<screenshot>
+			<description>This is kerntool running in NewTerm2 on an iPhone 5s (11.4.1) running the Electra jailbreak.</description>
+			<image>electra.png</image>
+		</screenshot>
+		<screenshot>
+			<description>This is kerntool running in NewTerm2 on an iPhone 7 (12.1.1) running the unc0ver dark jailbreak.</description>
+			<image>unc0ver.png</image>
+		</screenshot>
+	</screenshots>
 	<changelog>
 		<change>Add functionality to check which jailbreak is installed</change>
 		<change>kerntool now disables features not supported on certain jailbreaks</change>
