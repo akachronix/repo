@@ -1,7 +1,7 @@
 <package>
 	<id>com.chronix.kerntool</id>
 	<name>kerntool</name>
-	<version>0.5</version>
+	<version>0.6</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
@@ -24,12 +24,9 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Add functionality to check which jailbreak is installed</change>
-		<change>kerntool now disables features not supported on certain jailbreaks</change>
-		<change>kerntool will tell you what jailbreak it detects as being installed</change>
-		<change>Formatting in included help function has been changed</change>
-		<change>Code style is more consistent</change>
-		<change>Bump version to 0.5</change>
+		<change>Add (initial) Chimera support (A12 is NOT supported)</change>
+		<change>Let the tool still run, even if a jailbreak isn't detected (for legacy devices & other platforms)</change>
+		<change>Bump version to 0.6</change>
 	</changelog>
 	<links></links>
 </package>
