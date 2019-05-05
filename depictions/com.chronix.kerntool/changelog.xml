@@ -2,7 +2,7 @@
 	<changes>
 		<version>0.6</version>
 		<change>Add (initial) Chimera support (A12 is NOT supported)</change>
-		<change>Let the tool still run, even if a jailbreak isn't detected (for legacy devices & other platforms)</change>
+		<change>Let the tool still run, even if a jailbreak isn't detected (for legacy devices and other platforms)</change>
 		<change>Bump version to 0.6</change>
 	</changes>
 </changelog>
