@@ -117,5 +117,6 @@ Description: Reads various files dropped by unc0ver that provide some useful inf
 Tag: role::hacker
 Author: Chronix
 Depiction: https://akachronix.github.io/repo/depictions/?p=com.chronix.kerntool
+SileoDepiction: https://akachronix.github.io/repo/depictions/com.chronix.kerntool/kerntool-sileo-depiction.json
 Name: kerntool
 
