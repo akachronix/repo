@@ -37,7 +37,7 @@
                 },
                 {
                     "useBottomMargin": false,
-                    "markdown": "### kerntool v0.6\r\n#### Changelog for v0.6\r\n- Add (initial) Chimera support (A12 is NOT supported)\r\n- Let the tool still run, even if a jailbreak isn't detected (for legacy devices & other platforms)\r\n- Bump version to 0.6",
+                    "markdown": "#### Changelog for v0.6\r\n- Add (initial) Chimera support (A12 is NOT supported)\r\n- Let the tool still run, even if a jailbreak isn't detected (for legacy devices & other platforms)\r\n- Bump version to 0.6",
                     "class": "DepictionMarkdownView",
                     "useBoldText": true,
                     "title": "markdown-description"
