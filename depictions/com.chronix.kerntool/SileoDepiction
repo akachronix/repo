@@ -30,6 +30,10 @@
                         {
                             "accessibilityText": "Screenshot1",
                             "url": "https://akachronix.github.io/repo/depictions/com.chronix.kerntool/screenshots/unc0ver.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot2",
+                            "url": "https://akachronix.github.io/repo/depictions/com.chronix.kerntool/screenshots/chimera.png"
                         }
                     ],
                     "class": "DepictionScreenshotsView",

@@ -22,6 +22,10 @@
 			<description>This is kerntool running in NewTerm2 on an iPhone 7 (12.1.1) running the unc0ver dark jailbreak.</description>
 			<image>unc0ver.png</image>
 		</screenshot>
+		<screenshot>
+			<description>This is kerntool running in NewTerm2 on an iPhone 5s (12.0) running the Chimera jailbreak.</description>
+			<image>chimera.png</image>
+		</screenshot>
 	</screenshots>
 	<changelog>
 		<change>Add (initial) Chimera support (A12 is NOT supported)</change>
