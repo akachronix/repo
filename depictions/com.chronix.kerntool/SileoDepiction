@@ -2,19 +2,19 @@
     "class": "DepictionTabView",
     "tabs": [
         {
-            "tabname": "Details",
             "class": "DepictionStackView",
+            "tabname": "Details",
             "views": [
                 {
-                    "useBottomMargin": false,
-                    "class": "DepictionSubheaderView",
+                    "title": "kerntool",
                     "useBoldText": true,
-                    "title": "kerntool"
+                    "class": "DepictionSubheaderView",
+                    "useBottomMargin": false
                 },
                 {
+                    "class": "DepictionMarkdownView",
                     "markdown": "This is a work-in-progress project that uses the files the unc0ver jailbreak drops to give you information about various things like the kernel slide.",
-                    "useSpacing": true,
-                    "class": "DepictionMarkdownView"
+                    "useSpacing": true
                 },
                 {
                     "class": "DepictionSpacerView",
@@ -22,6 +22,8 @@
                 },
                 {
                     "itemCornerRadius": 6,
+                    "class": "DepictionScreenshotsView",
+                    "itemSize": "{160, 275.41333333333336}",
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot0",
@@ -35,43 +37,41 @@
                             "accessibilityText": "Screenshot2",
                             "url": "https://akachronix.github.io/repo/depictions/com.chronix.kerntool/screenshots/chimera.png"
                         }
-                    ],
-                    "class": "DepictionScreenshotsView",
-                    "itemSize": "{160, 275.41333333333336}"
+                    ]
                 },
                 {
-                    "useBottomMargin": false,
-                    "markdown": "#### Changelog for v0.7\r\n- Add Sileo depiction to control file\r\n- Add detection for Cydia package manager for new functionality\r\n- Add option --cydia-log to read "cydia.log" to console"\r\n- Bump version to 0.7-",
-                    "class": "DepictionMarkdownView",
+                    "title": "markdown-description",
                     "useBoldText": true,
-                    "title": "markdown-description"
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### Changelog: May 10th, 2019 @ 22:35\r\n\r\n- Add Sileo depiction to control file\r\n- Add detection for Cydia package manager for new functionality\r\n- Add option --cydia-log to read \"cydia.log\" to console\r\n- Bump version to 0.7",
+                    "useBottomMargin": false
                 },
                 {
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "class": "DepictionTableTextView",
+                    "title": "Version",
                     "text": "0.7",
-                    "title": "Version"
+                    "class": "DepictionTableTextView"
                 },
                 {
-                    "class": "DepictionTableTextView",
-                    "text": "05-07-2019",
-                    "title": "Released"
+                    "title": "Released",
+                    "text": "05-11-2019",
+                    "class": "DepictionTableTextView"
                 },
                 {
-                    "class": "DepictionTableTextView",
+                    "title": "Price",
                     "text": "Free",
-                    "title": "Price"
+                    "class": "DepictionTableTextView"
                 },
                 {
                     "class": "DepictionSpacerView",
                     "spacing": 8
                 },
                 {
-                    "class": "DepictionTableTextView",
+                    "title": "Developer",
                     "text": "Chronix",
-                    "title": "Developer"
+                    "class": "DepictionTableTextView"
                 },
                 {
                     "class": "DepictionSpacerView",
@@ -81,6 +81,6 @@
         }
     ],
     "headerImage": "",
-    "minVersion": "0.1",
-    "tintColor": "#0657bb"
+    "tintColor": "#0657bb",
+    "minVersion": "0.1"
 }
