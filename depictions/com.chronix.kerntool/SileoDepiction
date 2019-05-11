@@ -41,7 +41,7 @@
                 },
                 {
                     "useBottomMargin": false,
-                    "markdown": "#### Changelog for v0.6\r\n- Add (initial) Chimera support (A12 is NOT supported)\r\n- Let the tool still run, even if a jailbreak isn't detected (for legacy devices & other platforms)\r\n- Bump version to 0.6",
+                    "markdown": "#### Changelog for v0.7\r\n- Add Sileo depiction to control file\r\n- Add detection for Cydia package manager for new functionality\r\n- Add option --cydia-log to read "cydia.log" to console"\r\n- Bump version to 0.7-",
                     "class": "DepictionMarkdownView",
                     "useBoldText": true,
                     "title": "markdown-description"
@@ -51,7 +51,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "0.6",
+                    "text": "0.7",
                     "title": "Version"
                 },
                 {

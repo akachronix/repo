@@ -1,8 +1,9 @@
 <changelog>
 	<changes>
-		<version>0.6</version>
-		<change>Add (initial) Chimera support (A12 is NOT supported)</change>
-		<change>Let the tool still run, even if a jailbreak isn't detected (for legacy devices and other platforms)</change>
-		<change>Bump version to 0.6</change>
+		<version>0.7</version>
+		<change>Add Sileo depiction to control file</change>
+		<change>Add detection for Cydia package manager for new functionality</change>
+		<change>Add option --cydia-log to read "cydia.log" to console</change>
+		<change>Bump version to 0.7</change>
 	</changes>
 </changelog>
