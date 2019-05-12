@@ -43,7 +43,7 @@
                     "title": "markdown-description",
                     "useBoldText": true,
                     "class": "DepictionMarkdownView",
-                    "markdown": "### Changelog: May 11th, 2019 @ 23:38\r\n\r\n- Fix bug in --kernel-slide option where a random character would be read from buffer (buffer overflow)\r\n- Add support for armv7 devices and iOS 8, 9, and 10\r\n- Bump version to 0.8",
+                    "markdown": "### Changelog for v0.8\r\n\r\n- Fix bug in --kernel-slide option where a random character would be read from buffer (buffer overflow)\r\n- Add support for armv7 devices and iOS 8, 9, and 10\r\n- Bump version to 0.8",
                     "useBottomMargin": false
                 },
                 {
