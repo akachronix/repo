@@ -43,7 +43,7 @@
                     "title": "markdown-description",
                     "useBoldText": true,
                     "class": "DepictionMarkdownView",
-                    "markdown": "### Changelog: May 10th, 2019 @ 22:35\r\n\r\n- Add Sileo depiction to control file\r\n- Add detection for Cydia package manager for new functionality\r\n- Add option --cydia-log to read \"cydia.log\" to console\r\n- Bump version to 0.7",
+                    "markdown": "### Changelog: May 11th, 2019 @ 23:38\r\n\r\n- Fix bug in --kernel-slide option where a random character would be read from buffer (buffer overflow)\r\n- Add support for armv7 devices and iOS 8, 9, and 10\r\n- Bump version to 0.8",
                     "useBottomMargin": false
                 },
                 {
@@ -51,12 +51,12 @@
                 },
                 {
                     "title": "Version",
-                    "text": "0.7",
+                    "text": "0.8",
                     "class": "DepictionTableTextView"
                 },
                 {
                     "title": "Released",
-                    "text": "05-11-2019",
+                    "text": "05-12-2019",
                     "class": "DepictionTableTextView"
                 },
                 {
@@ -80,7 +80,7 @@
             ]
         }
     ],
-    "headerImage": "",
+    "headerImage": "https://akachronix.github.io/repo/depictions/com.chronix.kerntool/screenshots/kerntool-header.jpg",
     "tintColor": "#0657bb",
     "minVersion": "0.1"
 }
