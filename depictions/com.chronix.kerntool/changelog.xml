@@ -1,9 +1,8 @@
 <changelog>
 	<changes>
-		<version>0.7</version>
-		<change>Add Sileo depiction to control file</change>
-		<change>Add detection for Cydia package manager for new functionality</change>
-		<change>Add option --cydia-log to read "cydia.log" to console</change>
-		<change>Bump version to 0.7</change>
+		<version>0.8</version>
+		<change>Fix bug in --kernel-slide option where a random character would be read from buffer (buffer overflow)</change>
+		<change>Add support for armv7 devices and iOS 8, 9, and 10</change>
+		<change>Bump version to 0.8</change>
 	</changes>
 </changelog>
