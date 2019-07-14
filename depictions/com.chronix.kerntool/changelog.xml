@@ -1,7 +1,15 @@
 <changelog>
 	<changes>
 		<version>0.9</version>
-		<change>Change firmware requirement to iOS 7.0</change>
+		<change>Add Pangu7 support</change>
+		<change>When no jailbreak is detected, make incompatible features show they are incompatible</change>
+		<change>Remove --author, --about, and --credits options</change>
+		<change>Make kerntool just detect jailbreak when run without arguments</change>
+		<change>Put jailbreak name in a buffer for safe-keeping</change>
+		<change>Seperate out jailbreak detection to a function</change>
+		<change>Change help formatting</change>
+		<change>Add LICENSE to GitHub repository</change>
+		<change>Add CHANGELOG to GitHub repository</change>
 		<change>Bump version to 0.9</change>
 	</changes>
 </changelog>
