@@ -41,14 +41,3 @@
 	</changelog>
 	<links></links>
 </package>
-
-* Add Pangu7 support
-* When no jailbreak is detected, make incompatible features show they are incompatible
-* Remove --author, --about, and --credit options
-* Make kerntool just detect jailbreak when run without arguments
-* Put jailbreak name in a buffer for safe-keeping
-* Seperate out jailbreak detection to a function
-* Change help formatting
-* Add LICENSE to GitHub repository
-* Add CHANGELOG to GitHub repository
-* Bump version to 0.9
