@@ -1,15 +1,15 @@
 <package>
 	<id>com.chronix.kerntool</id>
 	<name>kerntool</name>
-	<version>0.8</version>
+	<version>0.9</version>
 	<compatibility>
 		<firmware>
-			<miniOS>8.0</miniOS>
+			<miniOS>7.0</miniOS>
 			<maxiOS>12.4</maxiOS>
 			<otherVersions>unsupported</otherVersions>
 		</firmware>
 	</compatibility>
-	<dependencies>firmware (>= 8.0)</dependencies>
+	<dependencies>firmware (>= 7.0)</dependencies>
 	<descriptionlist>
 		<description>Reads various files dropped by unc0ver that provide some useful information like the kernel slide.</description>
 	</descriptionlist>

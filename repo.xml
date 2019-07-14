@@ -20,5 +20,10 @@
 			<url>https://open.spotify.com/artist/2mZ7TyrKsCMtAeppYESQQJ</url>
 			<iconclass>fa fa-thumbs-up</iconclass>
 		</link>
+		<link>
+			<name>Follow me on Apple Music</name>
+			<url>https://itunes.apple.com/us/artist/chronix/374153691</url>
+			<iconclass>fa fa-thumbs-up</iconclass>
+		</link>		
 	</footerlinks>
 </repo>

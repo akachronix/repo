@@ -1,8 +1,7 @@
 <changelog>
 	<changes>
-		<version>0.8</version>
-		<change>Fix bug in --kernel-slide option where a random character would be read from buffer (buffer overflow)</change>
-		<change>Add support for armv7 devices and iOS 8, 9, and 10</change>
-		<change>Bump version to 0.8</change>
+		<version>0.9</version>
+		<change>Change firmware requirement to iOS 7.0</change>
+		<change>Bump version to 0.9</change>
 	</changes>
 </changelog>
