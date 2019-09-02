@@ -1,0 +1,23 @@
+<package>
+	<id>me.chronix.powermeoff</id>
+	<name>PowerMeOff</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+			<maxiOS>12.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>mobilesubstrate</dependencies>
+	<descriptionlist>
+		<description>A tweak that insults you for being a pussy.</description>
+	</descriptionlist>
+	<screenshots>
+	</screenshots>
+	<changelog>
+		<version>0.1</version>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
